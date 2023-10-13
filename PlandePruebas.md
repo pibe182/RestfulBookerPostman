@@ -31,5 +31,6 @@ Pruebas de UnHappy Paths:
 - Ejecución de casos de prueba que representen situaciones de error, como enviar datos incorrectos o incompletos.
 - Verificación de que se manejen adecuadamente los errores y se devuelvan códigos de estado y mensajes de error apropiados.
 
-Herramientas 
+Herramientas:
+
 Postman: Para la creación de la colección de pruebas manuales y la automatización de pruebas.
